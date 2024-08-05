@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFADD8E6</color> <!-- LightBlue -->
+    <color name="purple_500">#FF4682B4</color> <!-- SteelBlue -->
+    <color name="purple_700">#FF1E90FF</color> <!-- DodgerBlue -->
+    <color name="teal_200">#FF87CEFA</color> <!-- LightSkyBlue -->
+    <color name="teal_700">#FF4682B4</color> <!-- SteelBlue -->
+    <color name="black">#FF000000</color> <!-- Blackremainsunchanged -->
+    <color name="white">#FFFFFFFF</color> <!-- Whiteremainsunchanged -->
+    <color name="lavender">#FFB0E0E6</color> <!-- PowderBlue -->
+</resources>

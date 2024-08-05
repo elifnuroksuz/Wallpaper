@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499147996429",
+    "project_id": "wallpaper-663a9",
+    "storage_bucket": "wallpaper-663a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499147996429:android:061fbc39323a23a0708444",
+        "android_client_info": {
+          "package_name": "com.elifnuroksuz.wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA8wyJ6jfPul9nEh_luwdG8GFOzsj29mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
